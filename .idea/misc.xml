@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/background.xml" value="0.195" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/background1.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/button.xml" value="0.268" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/button2.xml" value="0.268" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/button3.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/container_components.xml" value="0.268" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/container_user.xml" value="0.264" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/edit_text.xml" value="0.268" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/historico.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_2.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_account.xml" value="0.264" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_baseline_drive_eta_24.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.264" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_email.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_eye.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/ic_launcher_background.xml" value="0.267" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/drawable/rounded.xml" value="0.278" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_form_cadastro.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_form_login.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_historico.xml" value="0.5" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_historico1.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_recycle_view_firebase.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_splash.xml" value="0.5" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_princial_qme5781.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_princiapal_qmd2.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_princiapal_qmd4533.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_princicipal_ouz6181.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal.xml" value="0.22" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_jrl7073.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_nyh5704.xml" value="0.33" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ouz2065.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ouz8654.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ozm6747.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ozp8845.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ozs0246.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ozv0945.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_ozv7471.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_pjb6124.xml" value="0.22121486854034453" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd2.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd4351.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd4527.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd4533.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd5674.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7717.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7722.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7723.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7731.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7767.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7772.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7864.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7865.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7866.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd7867.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd9946.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd9954.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd9963.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd9971.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qmd9973.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme5781.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme5782.xml" value="0.5" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme5784.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme6662.xml" value="0.340627973358706" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme6674.xml" value="0.22620126926563916" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme6691.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_principal_qme6703.xml" value="0.22121486854034453" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_jrl7073.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_nyh5704.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ouz2065.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ouz6181.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ouz8654.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ozm6747.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ozp8845.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ozs0246.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ozv0945.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_ozv7471.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_pjb6124.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd4351.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd4527.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd4533.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd5674.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7717.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7722.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7723.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7731.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7767.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7772.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7864.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7865.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7866.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd7867.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd9946.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd9954.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd9963.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd9971.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qmd9973.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme2.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme5781.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme5782.xml" value="0.5" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme5784.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme6662.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme6674.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme6691.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_tela_secundaria_qme6703.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/activity_userlist.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/content_tela_secundaria_qme6674.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/fragment_first.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/update_popup.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/Torre/app/src/main/res/layout/userentry.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.torre" >
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Torre"
+        tools:targetApi="31" >
+        <activity
+            android:name=".Tela_Secundaria_QME6674"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME6674"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME6662"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME6662"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME6703"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME6703"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME6691"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME6691"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_PJB6124"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_PJB6124"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_NYH5704"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_NYH5704"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_JRL7073"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_JRL7073"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OZV7471"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OZV7471"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OZV0945"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OZV0945"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OZS0246"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OZS0246"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OZM6747"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OZM6747"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OZP8845"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OZP8845"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OUZ8654"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OUZ8654"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_OUZ2065"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_OUZ2065"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD9973"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD9973"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD9971"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD9971"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD9963"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD9963"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD9954"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD9954"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD9946"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD9946"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7867"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7867"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7866"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7866"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7865"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7865"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7864"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7864"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7772"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7772"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7767"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7767"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7731"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7731"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7723"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7723"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7722"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7722"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD7717"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD7717"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD5674"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD5674"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD4533"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD4533"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD4527"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD4527"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QMD4351"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QMD4351"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME5781"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME5781"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Userlist"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME5784"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Secundaria_QME5782"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME5784"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal_QME5782"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FormCadastro"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Principal"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FormLogin"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Splash"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

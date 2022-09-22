@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655526350925",
+    "firebase_url": "https://torre-c9901-default-rtdb.firebaseio.com",
+    "project_id": "torre-c9901",
+    "storage_bucket": "torre-c9901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655526350925:android:a00bc884435098e6e80c04",
+        "android_client_info": {
+          "package_name": "com.example.torre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655526350925-dqqbi29nlskk34o5stb2e87gnl6gkdi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUrNZRzjbYQf4o8yG9K5piB2C4yTlPAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655526350925-dqqbi29nlskk34o5stb2e87gnl6gkdi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

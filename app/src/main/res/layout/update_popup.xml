@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Update"
+        android:background="@drawable/background"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu DD"
+        android:textSize="20sp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:id="@+id/txtPneu_dd"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:inputType="number"
+        android:layout_marginLeft="40dp"
+        android:maxLength="5"
+        android:gravity="center"
+        android:background="@drawable/rounded" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu DE"
+        android:textSize="20sp"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="-67dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="220dp"
+        android:gravity="center"
+        android:maxLength="5"
+        android:inputType="number"
+        android:background="@drawable/rounded"
+        android:id="@+id/txtPneu_de"/>
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu TRE1"
+        android:textSize="20sp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:id="@+id/txtPneu_tre1"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:maxLength="5"
+        android:layout_marginLeft="40dp"
+        android:inputType="number"
+        android:gravity="center"
+        android:background="@drawable/rounded" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu TRE2"
+        android:textSize="20sp"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="-67dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:maxLength="5"
+        android:layout_marginLeft="220dp"
+        android:gravity="center"
+        android:inputType="number"
+        android:background="@drawable/rounded"
+        android:id="@+id/txtPneu_tre2"/>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu TRD1"
+        android:textSize="20sp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:id="@+id/txtPneu_trd1"
+        android:layout_width="130dp"
+        android:maxLength="5"
+        android:layout_height="35dp"
+        android:inputType="number"
+        android:layout_marginLeft="40dp"
+        android:gravity="center"
+        android:background="@drawable/rounded" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Pneu TRD2"
+        android:textSize="20sp"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="-67dp"
+        android:layout_marginBottom="5dp"/>
+
+    <EditText
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:maxLength="5"
+        android:layout_marginLeft="220dp"
+        android:inputType="number"
+        android:gravity="center"
+        android:background="@drawable/rounded"
+        android:id="@+id/txtPneu_trd2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Atualizar"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:background="@drawable/rounded"
+        android:id="@+id/btnUpdate"/>
+
+</LinearLayout>

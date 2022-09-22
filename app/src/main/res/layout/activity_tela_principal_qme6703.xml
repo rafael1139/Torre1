@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        tools:context=".Tela_Principal_QME6703">
+
+        <ImageView
+            android:id="@+id/logo_inicial"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/torree"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/text_nomeuser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="8dp"
+            android:layout_marginStart="18dp"
+            android:text=""
+            android:textColor="@color/Black2"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/iconeuser"
+            app:layout_constraintStart_toEndOf="@+id/iconeuser"
+            app:layout_constraintTop_toTopOf="@+id/iconeuser" />
+
+
+        <ImageView
+            android:id="@+id/iconeuser"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginBottom="168dp"
+            android:src="@drawable/ic_account"
+            app:layout_constraintBottom_toBottomOf="@+id/logo_inicial"
+            app:layout_constraintEnd_toEndOf="@+id/logo_inicial"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/logo_inicial" />
+
+        <TextView
+            android:id="@+id/text_title_veiculo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="128dp"
+            android:text="QME6703"
+            android:textColor="@color/Black2"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="370dp"
+            android:layout_height="260dp"
+            android:layout_marginTop="266dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.487"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/si" />
+
+        <EditText
+            android:id="@+id/edit_dd"
+            style="@style/Pneu"
+            android:layout_marginVertical="51dp"
+            android:layout_marginTop="48dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.042"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_dd"
+            style="@style/Pneu"
+            android:layout_marginVertical="13dp"
+            android:layout_marginTop="48dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.042"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+
+        <EditText
+            android:id="@+id/edit_de"
+            style="@style/Pneu"
+            android:layout_marginVertical="60dp"
+            android:layout_marginBottom="64dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@id/imageView"
+            app:layout_constraintHorizontal_bias="0.042"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_saida_de"
+            style="@style/Pneu"
+            android:layout_marginVertical="22dp"
+            android:layout_marginBottom="64dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@id/imageView"
+            app:layout_constraintHorizontal_bias="0.042"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_tre1"
+            style="@style/Pneu"
+            android:layout_marginVertical="42dp"
+            android:layout_marginBottom="52dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.969"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_tre1"
+            style="@style/Pneu"
+            android:layout_marginVertical="7dp"
+            android:layout_marginBottom="4dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.969"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_tre2"
+            style="@style/Pneu"
+            android:layout_marginVertical="1dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/edit_saida_tre1"
+            app:layout_constraintStart_toStartOf="@+id/edit_saida_tre1"
+            app:layout_constraintTop_toBottomOf="@+id/edit_saida_tre1" />
+
+        <EditText
+            android:id="@+id/edit_tre2"
+            style="@style/Pneu"
+            android:layout_marginVertical="76dp"
+            android:layout_marginBottom="88dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.969"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_tre3"
+            style="@style/Pneu"
+            android:layout_marginVertical="76dp"
+            android:layout_marginBottom="88dp"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_tre4"
+            style="@style/Pneu"
+            android:layout_marginVertical="42dp"
+            android:layout_marginBottom="52dp"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_saida_tre3"
+            style="@style/Pneu"
+            android:layout_marginVertical="7dp"
+            android:layout_marginBottom="4dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            android:visibility="invisible"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_tre4"
+            style="@style/Pneu"
+            android:layout_marginVertical="1dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/edit_saida_tre3"
+            app:layout_constraintStart_toStartOf="@+id/edit_saida_tre3"
+            app:layout_constraintTop_toBottomOf="@+id/edit_saida_tre3" />
+
+        <EditText
+            android:id="@+id/edit_trd2"
+            style="@style/Pneu"
+            android:layout_marginVertical="35dp"
+            android:layout_marginTop="116dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.969"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_saida_trd2"
+            style="@style/Pneu"
+            android:layout_marginVertical="0dp"
+            android:layout_marginTop="116dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.969"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_trd1"
+            style="@style/Pneu"
+            android:layout_marginVertical="69dp"
+            android:layout_marginTop="68dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.968"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_trd1"
+            style="@style/Pneu"
+            android:layout_marginVertical="1dp"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+
+            app:layout_constraintBottom_toTopOf="@+id/edit_saida_trd2"
+            app:layout_constraintEnd_toEndOf="@+id/edit_saida_trd2"
+            app:layout_constraintStart_toStartOf="@+id/edit_saida_trd2" />
+
+        <EditText
+            android:id="@+id/edit_trd3"
+            style="@style/Pneu"
+            android:layout_marginVertical="69dp"
+            android:layout_marginTop="68dp"
+            android:gravity="center"
+            android:hint="Entrada"
+            android:inputType="number"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+        <EditText
+            android:id="@+id/edit_trd4"
+            style="@style/Pneu"
+            android:layout_marginVertical="35dp"
+            android:layout_marginTop="116dp"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:hint="Entrada"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_trd3"
+            style="@style/Pneu"
+            android:layout_marginVertical="0dp"
+            android:layout_marginTop="116dp"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_saida_trd4"
+            style="@style/Pneu"
+            android:layout_marginVertical="1dp"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:hint="Saida"
+            android:inputType="number"
+            app:layout_constraintBottom_toTopOf="@+id/edit_saida_trd3"
+            app:layout_constraintEnd_toEndOf="@+id/edit_saida_trd3"
+            app:layout_constraintStart_toStartOf="@+id/edit_saida_trd3" />
+
+        <Button
+            android:id="@+id/bt_deslogar"
+            android:layout_width="110dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/black"
+            android:text="Voltar"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="8dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_height="30dp"/>
+
+        <Button
+            android:id="@+id/bt_confirmar"
+            android:layout_width="110dp"
+            android:layout_marginHorizontal="90dp"
+            android:layout_marginBottom="80dp"
+            android:background="@color/black"
+            android:text="Confirmar"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="8dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_height="30dp"/>
+        <Button
+            android:id="@+id/bt_pneu_atual"
+            android:layout_width="110dp"
+            android:layout_marginHorizontal="90dp"
+            android:layout_marginBottom="45dp"
+            android:background="@color/black"
+            android:text="Pneus"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="8dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_height="30dp"/>
+
+        <TextView
+            android:id="@+id/tvDate"
+            style="@style/Button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Selecione a Data"
+            android:textColor="@color/black"
+            android:textSize="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/logo_inicial"
+            app:layout_constraintEnd_toEndOf="@+id/logo_inicial"
+            app:layout_constraintStart_toStartOf="@+id/logo_inicial" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>
